@@ -1,0 +1,6 @@
+      1 Electric
+      3 Fire
+      3 Grass
+      3 Normal
+      3 Water
+      6 Bug
